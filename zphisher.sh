@@ -166,9 +166,10 @@ banner_small() {
 		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
 		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
 		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.1
-	EOF
+	EOF     echo "CODED By I.T MASTER Subscribe on Youtube "
+	
+	
 }
-
 ## Dependencies
 dependencies() {
 	echo -e "\n${GREEN}[${WHITE}+${GREEN}]${CYAN} Installing required packages..."
